@@ -5,6 +5,7 @@
     android:layout_height="match_parent">
 
     <com.example.myapp.uicomponents.CustomWidthImageView
+        android:id="@+id/customWidthImageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 </FrameLayout>
